@@ -28,7 +28,7 @@ int main()
   int no;
   long fac;
   
-  std::cout<<"Enter a Number : ";
+  std::cout<<"Enter a Number : " ;
   std::cin>>no;
 
   
