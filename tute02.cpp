@@ -52,7 +52,7 @@ int main()
   std::cin>>etype;
   std::cout<< "Enter Salary  : ";
   std::cin>>salary;
-  std::cout<<"Enter OtHrs : ";
+  std::cout<<"Enter OtHrs  : ";
   std::cin>>otHrs;
   
   
