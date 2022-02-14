@@ -48,7 +48,7 @@ int main()
 {
   double salary, netSalary;
   int etype, otHrs, otRate;
-  std::cout<< "Enter Employee Type  : ";
+  std::cout<< "Enter Employee Type   : ";
   std::cin>>etype;
   std::cout<< "Enter Salary  : ";
   std::cin>>salary;
